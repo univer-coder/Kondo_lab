@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        惑星内部物質学研究室
       image:
         filename: welcome.jpg
       text: |
